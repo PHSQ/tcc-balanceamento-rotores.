@@ -1,6 +1,6 @@
 # Bancada didática de balanceamento de rotores
 
-Códigos Arduino e Python para aquisição e processamento de sinais de aceleração de uma bancada didática, com aplicação do método das quatro corridas para balanceamento de rotores em um plano.
+Códigos Arduino e Python para aquisição e processamento de sinais de aceleração de uma bancada didática, com aplicação do método das quatro voltas para balanceamento de rotores em um plano.
 
 ## Arquivos
 
