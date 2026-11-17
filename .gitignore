@@ -1,0 +1,7 @@
+# Ambiente Python e arquivos temporarios
+.venv/
+__pycache__/
+*.py[cod]
+
+# Coletas, graficos e relatorios gerados durante os ensaios
+/dados_4corridas/
